@@ -13,9 +13,7 @@ This project involves analyzing customer data for a subscription service to iden
 - **Create any other interesting reports** to further analyze customer data.
 
 ### 2. SQL
-*Hint: You need to load the dataset into your SQL Server environment to write and validate your queries.*
 
-Write queries to extract key insights based on the following questions:
 - Retrieve the total number of customers from each region.
 - Find the most popular subscription type by the number of customers.
 - Find customers who canceled their subscription within 6 months.
@@ -32,9 +30,3 @@ Write queries to extract key insights based on the following questions:
 
 ## Deliverables
 - Power BI dashboard with visualizations of customer segmentation, subscription trends, and cancellation insights.
-
-## Contributing
-Feel free to submit a pull request or open an issue if you have suggestions or improvements for this project.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
